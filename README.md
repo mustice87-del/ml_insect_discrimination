@@ -1,12 +1,6 @@
 # ml_insect_discrimination
 Machine learning for insect discrimination
-# Peer Review Data & Code Package
-
-**Manuscript:** Discriminating Stored-Product Insect Species and Substrate Controls  
-Using Piezoelectric Contact Microphone Recordings and Supervised Machine Learning  
-
-**Journal:** Methods in Ecology and Evolution  
-**Status:** Under review (anonymised for double-blind peer review)
+# Data & Code Package
 
 ---
 
